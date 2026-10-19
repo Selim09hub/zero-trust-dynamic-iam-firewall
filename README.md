@@ -84,3 +84,6 @@ To unlock the raw, unrestricted lifetime C++20 enterprise source framework compo
 * **Price:** **\$95,000.00 USD (One-Time Enterprise Buyout Option)**
 * **Delivery:** Instant automated source repository synchronization including clean decoupled build scripts.
 * **Support Profile:** 12 Months of priority engineering access and infrastructure compliance optimization guides.
+
+
+Official Corporate Desk Communication: selim09hossain@gmail.com , https://www.linkedin.com/in/selim-hossain-0a434b296/
